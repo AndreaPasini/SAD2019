@@ -20,6 +20,6 @@ The code in this repository is related to the parts of our method architecture w
 - extract connected components from the image segmented by the PSPNet neural network
 - compute the relative properties between objects (e.g. relative position with the string representation of images).
 - compute the histograms of the knowledge base
-- detect anomalies with both the Anomaly-Only and the Delta Methods.
+- detect anomalies with both the Anomaly-Only and the Delta Methods. The Delta Method is not described in our paper for the sake of brevity.
 
-In the Main class, there are the six predefined experiments shown in our white paper.
+In the Main class, there are six predefined experiments which include the ones shown in our white paper.
