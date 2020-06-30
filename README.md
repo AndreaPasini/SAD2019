@@ -1,6 +1,6 @@
 # Semantic Anomaly Detection
 
-This repository refers to the article *Detecting Anomalies in Image Classification by means of Semantic Relationships*.<br/>
+This repository refers to the article *Detecting Anomalies in Image Classification by means of Semantic Relationships* ([link to pdf](https://iris.polito.it/bitstream/11583/2749672/1/SAD_AIKE_2019_camera_ready.pdf)).<br/>
 Authors: Andrea Pasini, Elena Baralis.
 
 
